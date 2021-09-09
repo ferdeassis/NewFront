@@ -1,0 +1,19 @@
+.consultaPropostas {
+    color: black;
+}
+
+.consultaPropostas td {
+    width: 150px;
+}
+
+.consultarBtn {
+    width: 150px;
+}
+
+.consultaLabel {
+    background-color: lightgray;
+}
+
+.consultaDiv {
+    margin-bottom: 15px;
+}

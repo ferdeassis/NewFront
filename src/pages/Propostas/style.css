@@ -1,0 +1,35 @@
+.title-proposta {
+    margin-top: 25px;
+}
+
+.sair {
+    width: 75px;
+}
+
+.logout {
+    text-align: right;
+    padding: 5px;
+}
+
+textarea {
+    width: 85%;
+    height: 80px;
+    margin-top: 15px;
+    background: lightgray;
+    border: 0;
+    border-radius: 4px;
+}
+
+.txtAreaConsulta {
+    width: 100%;
+    height: 250px;
+}
+
+.consultar {
+    width: 200px;
+    margin-right: 15px;
+}
+
+.btnConsultar {
+    margin-top: 0;
+}
